@@ -1,0 +1,34 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"enable_tab_scrolling": false,
+	"enable_telemetry": "disabled",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"RestructuredText"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"word_wrap": false
+}
